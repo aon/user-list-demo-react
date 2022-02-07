@@ -1,4 +1,4 @@
-# Userlist - Demo - React
+# User list - Demo - React
 This small website will get a username and age, verify the input is valid and add it to a list shown at the bottom of the page.
 
 The main learning goals for this project were:
