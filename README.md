@@ -17,4 +17,4 @@ The main learning goals for this project were:
 - React
 
 ## Authors ✒️
-- Agustin Aon - @aon
+- Agustin Aon - [@aon](https://github.com/aon)
