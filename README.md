@@ -6,15 +6,15 @@ The main learning goals for this project were:
 - Learn how to manage different states
 - Keep improving my React skills
 
-## Screenshots
+## Screenshots 📷
 ![Home page](images/home.png "Home page")
 ![Modal page](images/modal.png "Modal page")
 
-## Built with
+## Built with 🛠️
 - JavaScript
 - HTML
 - CSS
 - React
 
-## Authors
+## Authors ✒️
 - Agustin Aon - @aon
